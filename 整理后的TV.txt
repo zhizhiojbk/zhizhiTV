@@ -2,6 +2,7 @@
 CCTV1,http://39.135.160.13:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000311/1000.m3u8?IASHttpSessionId
 CCTV2,http://39.135.160.12:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000317/1000.m3u8?IASHttpSessionId
 CCTV3,http://39.135.111.105:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000359/1000.m3u8?IASHttpSessionId
+CCTV3,http://39.135.111.105:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000359/1000.m3u8?IASHttpSessionId=RR4196020260510073401610980&zte_bandwidth=1000&bandwidth=8517363&ispcode=3&timeformat=local&channel=CHANNEL00000359&m3u8_level=2&userid=18706422286&ztecid=CHANNEL00000359
 CCTV4,http://39.135.160.11:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000320/1000.m3u8?IASHttpSessionId
 CCTV5,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000360/1000.m3u8?IASHttpSessionId
 CCTV5+,http://39.135.111.105:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000316/1000.m3u8?IASHttpSessionId
@@ -32,7 +33,7 @@ CGTN-俄语,http://39.135.111.102:6610/shandong_cabletv.live.zte.com/10.23.223.2
 浙江卫视,http://39.135.111.105:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000305/1000.m3u8?IASHttpSessionId
 东方卫视,http://39.135.160.14:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000309/1000.m3u8?IASHttpSessionId
 江苏卫视,http://39.135.160.11:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000304/1000.m3u8?IASHttpSessionId
-北京卫视,http://39.135.111.104:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000302/1000.m3u8?IASHttpSessionId 
+北京卫视,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000302/1000.m3u8?IASHttpSessionId 
 安徽卫视,http://39.135.160.11:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000328/1000.m3u8?IASHttpSessionId
 天津卫视,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000327/1000.m3u8?IASHttpSessionId
 辽宁卫视,http://39.135.160.12:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000326/1000.m3u8?IASHttpSessionId
@@ -95,12 +96,12 @@ QTV-6,http://39.135.111.102:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081
 [BD]黑龙江都市[ipv6],https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8
 特色频道,#genre#
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-中国交通,http://39.135.111.104:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000073/1000.m3u8?IASHttpSessionId
+中国交通,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000073/1000.m3u8?IASHttpSessionId
 纪实人文,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000333/1000.m3u8?IASHttpSessionId
 金鹰纪实,http://39.135.111.105:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000334/1000.m3u8?IASHttpSessionId
 三沙卫视,http://39.135.111.105:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000078/1000.m3u8?IASHttpSessionId
 嘉佳卡通,http://39.135.160.12:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000074/1000.m3u8?IASHttpSessionId
-中国教育-1,http://39.135.111.104:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000076/1000.m3u8?IASHttpSessionId
+中国教育-1,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000076/1000.m3u8?IASHttpSessionId
 中国教育-2,http://39.135.111.102:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000077/1000.m3u8?IASHttpSessionId
 中国教育-4,http://39.135.111.102:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000666/1000.m3u8?IASHttpSessionId
 BRTV(北京)-纪实科教,http://39.135.111.105:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000332/1000.m3u8?IASHttpSessionId
@@ -113,7 +114,7 @@ BRTV(北京)-纪实科教,http://39.135.111.105:6610/shandong_cabletv.live.zte.c
 游戏风云,http://39.135.111.102:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002024/1000.m3u8?IASHttpSessionId
 东方财经,http://39.135.111.102:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002025/1000.m3u8?IASHttpSessionId
 梨园,http://39.135.111.99:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000656/1000.m3u8?IASHttpSessionId
-财富天下,http://39.135.111.104:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000607/1000.m3u8?IASHttpSessionId
+财富天下,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000607/1000.m3u8?IASHttpSessionId
 武术世界,http://39.135.111.102:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000657/1000.m3u8?IASHttpSessionId
 文物宝库,http://39.135.160.12:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000658/1000.m3u8?IASHttpSessionId
 精彩影视,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002012/1000.m3u8?IASHttpSessionId
@@ -123,21 +124,21 @@ BRTV(北京)-纪实科教,http://39.135.111.105:6610/shandong_cabletv.live.zte.c
 书画,http://39.135.111.99:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000651/1000.m3u8?IASHttpSessionId
 新动漫,http://39.135.111.107:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000659/1000.m3u8?IASHttpSessionId
 四海钓鱼,http://39.135.111.107:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000640/1000.m3u8?IASHttpSessionId
-环球旅游,http://39.135.111.104:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000643/1000.m3u8?IASHttpSessionId
+环球旅游,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000643/1000.m3u8?IASHttpSessionId
 优优宝贝,http://39.135.111.105:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000641/1000.m3u8?IASHttpSessionId
 车迷,http://39.135.111.100:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000645/1000.m3u8?IASHttpSessionId
 中华特产,http://39.135.111.99:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000642/1000.m3u8?IASHttpSessionId
 山东广播电视台经济广播,http://39.135.111.102:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00003001/1000.m3u8?IASHttpSessionId
 山东广播电视台交通广播,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/10.23.223.138:8081/00/SNM/CHANNEL00003002/1000.m3u8?IASHttpSessionId
 CHC家庭影院,http://39.135.111.99:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002028/1000.m3u8?IASHttpSessionId
-CHC影迷电影,http://39.135.111.104:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002029/1000.m3u8?IASHttpSessionId
+CHC影迷电影,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002029/1000.m3u8?IASHttpSessionId
 CHC动作电影,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002030/1000.m3u8?IASHttpSessionId
 动漫秀场,http://39.135.111.99:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00002000/1000.m3u8?IASHttpSessionId
 齐鲁高清,http://39.135.160.11:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000313/1000.m3u8?IASHttpSessionId
 快乐购物,http://39.135.160.12:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000709/1000.m3u8?IASHttpSessionId
 汽摩频道,http://39.135.111.107:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000711/1000.m3u8?IASHttpSessionId
-BRTV（北京）-KAKU少儿,http://39.135.111.104:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000661/1000.m3u8?IASHttpSessionId
-优漫卡通,http://39.135.111.104:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000049/1000.m3u8?IASHttpSessionId
+BRTV（北京）-KAKU少儿,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000661/1000.m3u8?IASHttpSessionId
+优漫卡通,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000049/1000.m3u8?IASHttpSessionId
 哈哈炫动,http://39.135.111.105:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000050/1000.m3u8?IASHttpSessionId
 NewTV 哒啵赛事「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 NewTV 黑莓动画「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
@@ -660,4 +661,5 @@ HD]咸宁经济生活,https://stream1.freetv.fun/91aa26e5f08c654b7d2ea59dbfa50d5
 [HD]青海都市,https://stream1.freetv.fun/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8
 [BD]music,https://stream1.freetv.fun/cdcbc055953a402406d3404c517005dea82b566ad8e715d548af80db9352d0e8.m3u8
 [BD]永城新闻综合频道,https://stream1.freetv.fun/f6c03f19692823d066b7bed8d72c52941b3cd675869e6fcc09d82d0a5fae81c8.m3u8
+
 
