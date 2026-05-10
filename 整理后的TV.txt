@@ -13,7 +13,7 @@ CCTV10,http://39.135.111.99:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081
 CCTV11,http://39.135.111.107:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000344/1000.m3u8?IASHttpSessionId
 CCTV12,http://39.135.160.11:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000322/1000.m3u8?IASHttpSessionId
 CCTV13,http://39.135.160.14:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000345/1000.m3u8?IASHttpSessionId
-CCTV14,http://39.135.111.103:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000323/1000.m3u8?IASHttpSessionId
+
 CCTV15,http://39.135.160.11:6610/shandong_cabletv.live.zte.com/10.23.223.28:8081/00/SNM/CHANNEL00000346/1000.m3u8?IASHttpSessionId
 CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTVNEWS,http://39.135.111.106:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000009/1000.m3u8?IASHttpSessionId
